@@ -1,0 +1,6 @@
+#+title: Isogènies, CSIDH i CSI-FiSh en Sage
+#+author: Gerard
+
+[[https://mybinder.org/v2/gh/gerardet46/TFG-Quaderns/HEAD][https://mybinder.org/badge_logo.svg]]
+
+Aquest repositori conté els tres quaderns de Sage del TFG: =intro.ipynb=, =CSIDH.ipynb=, i =CSI-FiSh.ipynb=. Aquests es troben al directori =quaderns/=.
